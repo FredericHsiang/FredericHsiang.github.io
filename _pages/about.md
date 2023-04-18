@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master degree candidate for business management.
+*I am a master degree candidate for business management.*
 
 Short Bio
 ======
@@ -16,8 +16,9 @@ hhhhhh
 
 Education
 ======
-hhhh
+* Sept. 2021--June 2024: MSc in Management with Business Management, School of Business, Nanjing Audit University (expected)
+* Sept. 2017--June 2021: BSc in Mathematics and Applied Mathematics, School of Science, East China University of Technology
 
 Honors and Awards
-------
+======
 hhhh
