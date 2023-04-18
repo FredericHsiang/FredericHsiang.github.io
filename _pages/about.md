@@ -12,15 +12,17 @@ redirect_from:
 
 Short Bio
 ======
-hhhhhh
+I am **Frederic Hsiang (项波)**.
 
 Education
 ======
-* Sept. 2021--June 2024: MSc in Management with Business Management, School of Business, Nanjing Audit University (expected)
+* Sept. 2021--June 2024: MSc in Business Management, School of Business, Nanjing Audit University (expected)
 * Sept. 2017--June 2021: BSc in Mathematics and Applied Mathematics, School of Science, East China University of Technology
 
 Honors and Awards
 ======
-* National Encouragement Scholarship **Top 3.5%** 2020, 2019
-* The Grand Prize Scholarship **Top 1%** 2020
-* The Second Prize Scholarship **Top 10%** 2019
+* National Encouragement Scholarship, 2019 & 2020, **Top 3.5%**
+* The Grand Prize Scholarship, 2020, **Top 1%**
+* The Second Prize Scholarship, 2019, **Top 10%**
+* Meritorious Winner, COMAP's Mathematical Contest In Modeling, 2019, **Top 8%**
+*  
