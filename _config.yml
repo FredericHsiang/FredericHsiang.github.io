@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Frederic Hsiang"
   avatar           : "FredericHsiang.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ask for strange wisdom"
   location         : "NanJing,China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "wavehsiang@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Xiang-Bo-3"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "FredericHsiang"
   google_plus      :
   keybase          :
   instagram        :
