@@ -21,4 +21,6 @@ Education
 
 Honors and Awards
 ======
-hhhh
+* National Encouragement Scholarship **Top 3.5%** 2020, 2019
+* The Grand Prize Scholarship **Top 1%** 2020
+* The Second Prize Scholarship **Top 10%** 2019
