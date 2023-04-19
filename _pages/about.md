@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-- [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang^:email:**, *Expert Systems with Applications*, 2023.
+- [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications*, 2023.
 
 # 🎖 Honors and Awards
 - *2019* Meritorious Winner (Top 8%), COMAP's Mathematical Contest in Modeling (MCM). 
@@ -41,6 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2021.02 - 2021.04*, [Soul](https://www.soulapp.cn/), Shanghai.
-- *2020.03 - 2020.05*, [Citic Securities](http://www.cs.ecitic.com/newsite/yywd/zjs/_yyb1301_/), Jiaxing.
-- *2019.07 - 2019.09*, [Geminno](http://www.suzhou-gem.com/), Soochow.
+- *2021.02 - 2021.04*, Product Manager, [Soul](https://www.soulapp.cn/), Shanghai.
+- *2020.03 - 2020.05*, Assistant Finance Manager, [Citic Securities](http://www.cs.ecitic.com/newsite/yywd/zjs/_yyb1301_/), Jiaxing.
+- *2019.07 - 2019.09*, Web Front-end Intern, [Geminno](http://www.suzhou-gem.com/), Soochow.
