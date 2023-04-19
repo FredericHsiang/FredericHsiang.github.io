@@ -17,28 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-- [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications*, 2023.
-
-# 🎖 Honors and Awards
-- *2019* Meritorious Winner (Top 8%), COMAP's Mathematical Contest in Modeling (MCM). 
-- *2019* The Grand Prize Scholarship (Top 1%).
+I became a searcher，wanting to find out who I was and what made me unique. My view of myself was changing. I wanted a solid base to start from. I started to resist3 pressure to act in ways that I didn’t like any more，and I was delighted by who I really was. I came to feel much more sure that no one can ever take my place. Each of us holds a unique place in the world. You are special，no matter what others say or what you may think. So forget about being replaced. You can’t be.
 
 # 📖 Educations
 - *2021.09 - 2024.06 (expected)*, MSc in Business Management, School of Business, Nanjing Audit University.
 - *2017.09 - 2021.06*, BSc in Mathematics and Applied Mathematics, School of Science, East China University of Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+# 🔥 Skills & Certificates
+-  Financial Risk Manager (FRM) Level I; Securities Practice Qualification Certificate; Futures Qualification Certificate; Junior Accounting Certificate; National Computer Certificate II (MS Office).
+
+# 🎖 Honors and Awards
+## Scholarships & Personal Honors
+- *2022* The Third Prize Scholarship (Postgraduate).
+- *2021* The Second Prize Scholarship (Postgraduate).
+- *2019 & 2020* National Motivational Scholarship (Top 3.5%).
+- *2020* The Grand Prize Scholarship (Top 1%).
+- *2019* The Second Prize Scholarship (Top 11%).
+- *2021* School Outstanding Graduate.
+- *2019* School Outstanding Student Leaders.
+- *2019* School Star of Virtues.
+- *2019* Merit Student.
+- *2018* Provincial Advanced Volunteer Team.
+- *2018* School Advanced Volunteer Individual.
+## Academic Competitions
+- *2019* Meritorious Winner (International First Prize), COMAP's Mathematical Contest in Modeling (MCM).
+- *2019* National Second Prize, Teddy Cup Data Mining Race.
+- *2019* Provincial Second Prize, China Undergraduate Mathematical Contest in Modelling.
+- *2019* Provincial Third Prize, Physics Innovation Competition in Jiangxi Province (Undergraduate).
+- *2018* School Third Prize, The Chinese Mathematics Competitions.
+
+# 📝 Publications 
+- [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications*, 2023.
+- Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec, Dejian Yu, **Bo Xiang\***, *International Journal of Manpower*, 2023 (accepted).
+
+# 💬 Research Grants
+- *2022.05 - 2023.05*, Cross-border e-commerce enterprise credit rating research under multi-attribute decision environment, Postgraduate Research and Practice Innovation Program of Jiangsu Province, **No. KYCX22_2187**, **1/1**. 
+- *2018.12 - 2019.12*, Resource utilization of waste flowers, fruits and leaves of navel orange industry in Gannan region, Science and Technology Innovation Fund of ECUT (Undergraduate), **Second Prize**, **1/6**. 
+- *2018.12 - 2019.12*, The demand features of society (enterprises) for college talents, Science and Technology Innovation Fund of ECUT (Undergraduate), **Second Prize**, **2/6**.
+- *2018.12 - 2019.12*, The comprehensive survey of life conditions for college students, Science and Technology Innovation Fund of ECUT (Undergraduate), **Third Prize**, **4/6**.
+- *2017.12 - 2018.12*, K12 education pattern based on Internet+, Science and Technology Innovation Fund of ECUT (Undergraduate), **Second Prize**, **5/6**.
+- *2017.12 - 2018.12*, Multiple patterns and pathways of new smart city construction, Science and Technology Innovation Fund of ECUT (Undergraduate), **Third Prize**, **4/6**.
 
 # 💻 Internships
 - *2021.02 - 2021.04*, Product Manager, [Soul](https://www.soulapp.cn/), Shanghai.
