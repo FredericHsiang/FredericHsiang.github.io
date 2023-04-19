@@ -41,6 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2021.02 - 2021.04*, *Product Manager*, [Soul](https://www.soulapp.cn/), Shanghai.
-- *2020.03 - 2020.05*, *Assistant Finance Manager*, [Citic Securities](http://www.cs.ecitic.com/newsite/yywd/zjs/_yyb1301_/), Jiaxing.
-- *2019.07 - 2019.09*, *Web Front-end Intern*, [Geminno](http://www.suzhou-gem.com/), Soochow.
+- *2021.02 - 2021.04*, Product Manager, [Soul](https://www.soulapp.cn/), Shanghai.
+- *2020.03 - 2020.05*, Assistant Finance Manager, [Citic Securities](http://www.cs.ecitic.com/newsite/yywd/zjs/_yyb1301_/), Jiaxing.
+- *2019.07 - 2019.09*, Web Front-end Intern, [Geminno](http://www.suzhou-gem.com/), Soochow.
