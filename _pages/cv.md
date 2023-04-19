@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, East China University of Technology, 2021
 * M.S. in Business Management, Nanjing Audit University, 2024 (expected)
+* B.S. in Mathematics and Applied Mathematics, East China University of Technology, 2021
 
 Work experience
 ======
