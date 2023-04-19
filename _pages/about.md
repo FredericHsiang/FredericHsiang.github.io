@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Current"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,15 +10,12 @@ redirect_from:
 
 *I am a master degree candidate for business management.*
 
-# Short Bio
-I am **Frederic Hsiang (项波)**.
-
 # Education
 * Sept. 2021--June 2024: MSc in Business Management, School of Business, Nanjing Audit University (expected)
 * Sept. 2017--June 2021: BSc in Mathematics and Applied Mathematics, School of Science, East China University of Technology
 
 # Honors and Awards
-
+The following are some personal honors I have received.
 ## Personal Hornors
 * School Outstanding Graduates (2021); School Outstanding Student Leaders (2019); School Merit Student (2019); Star of Virtue (2019); Provincial Advanced Volunteer Team (2018); School Advanced Volunteer Individual (2018). 
 ## Scholarship
