@@ -9,7 +9,7 @@
 title                    : "Frederic Hsiang (项波)"
 description              : "Master degree candidate of Business Management, School of Business, Nanjing Audit University. Focusing on technology innovation, text analysis and scientometrics."
 repository               : "FredericHsiang/FredericHsiang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
