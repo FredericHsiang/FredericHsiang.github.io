@@ -26,9 +26,8 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 # 🔥 Skills and Certificates
 -  Financial Risk Manager (FRM) Level I; Securities Practice Qualification Certificate; Futures Qualification Certificate; Junior Accounting Certificate; National Computer Certificate II (MS Office).
 
-# 🎖 Honors and Awards
-    
-   
+# 🎖 Honors and Awards  
+     
 ## Scholarships and Personal Honors
 - *2022* The Third Prize Scholarship (Postgraduate).
 - *2021* The Second Prize Scholarship (Postgraduate).
