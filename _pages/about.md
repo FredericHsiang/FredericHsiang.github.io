@@ -43,9 +43,10 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - *2018* School Advanced Volunteer Individual.
 ## Academic Competitions
 - *2019* Meritorious Winner (International First Prize), COMAP's Mathematical Contest in Modeling (MCM).
-- *2019* National Second Prize, Teddy Cup Data Mining Race.
+- *2019* National Second Prize, "Teddy Cup" Data Mining Race.
 - *2019* Provincial Second Prize, China Undergraduate Mathematical Contest in Modelling.
 - *2019* Provincial Third Prize, Physics Innovation Competition in Jiangxi Province (Undergraduate).
+- *2019* School Second Prize, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition.
 - *2018* School Third Prize, The Chinese Mathematics Competitions.
 
 # 📝 Publications 
@@ -53,8 +54,9 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec, Dejian Yu, **Bo Xiang\***, *International Journal of Manpower*, 2023 (accepted).
 
 # 💬 Research Grants
-- *2022.05 - 2023.05*, Cross-border e-commerce enterprise credit rating research under multi-attribute decision environment, Postgraduate Research and Practice Innovation Program of Jiangsu Province, **No. KYCX22_2187**, **1/1**. 
-- *2018.12 - 2019.12*, Resource utilization of waste flowers, fruits and leaves of navel orange industry in Gannan region, Science and Technology Innovation Fund of ECUT (Undergraduate), **Second Prize**, **1/6**. 
+- *2022.05 - 2023.05*, Cross-border e-commerce enterprise credit rating research under multi-attribute decision environment, Postgraduate Research and Practice Innovation Program of Jiangsu Province, **No. KYCX22_2187**, **1/1**.
+- *2019.09 - 2020.05*, Jiangxi huawen science and technology innovation culture development Co., National Innovation and Entrepreneurship Training Program for College Students, **201910405030**, **1/5**.
+- *2018.12 - 2019.12*, Resource utilization of waste flowers, fruits and leaves of navel orange industry in Gannan region, Science and Technology Innovation Fund of ECUT (Undergraduate), **Second Prize**, **1/6**.
 - *2018.12 - 2019.12*, The demand features of society (enterprises) for college talents, Science and Technology Innovation Fund of ECUT (Undergraduate), **Second Prize**, **2/6**.
 - *2018.12 - 2019.12*, The comprehensive survey of life conditions for college students, Science and Technology Innovation Fund of ECUT (Undergraduate), **Third Prize**, **4/6**.
 - *2017.12 - 2018.12*, K12 education pattern based on Internet+, Science and Technology Innovation Fund of ECUT (Undergraduate), **Second Prize**, **5/6**.
