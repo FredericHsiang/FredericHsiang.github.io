@@ -24,7 +24,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - *2017.09 - 2021.06*, BSc in Mathematics and Applied Mathematics, School of Science, East China University of Technology.
 
 # 🔥 Skills and Certificates
--  Financial Risk Manager (FRM) Level I; Securities Practice Qualification Certificate; Futures Qualification Certificate; Junior Accounting Certificate; National Computer Certificate II (MS Office).
+-  Financial Risk Manager (FRM) Level I; Securities Practice Qualification Certificate; Futures Qualification Certificate; Junior Accounting Certificate; National Computer Certificate II (MS Office, Python).
 
 # 🎖 Honors and Awards  
  
@@ -37,7 +37,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - *2021* School Outstanding Graduate.
 - *2019* School Outstanding Student Leaders.
 - *2019* School Star of Virtues.
-- *2019* Merit Student.
+- *2019* School Merit Student.
 - *2018* Provincial Advanced Volunteer Team.
 - *2018* School Advanced Volunteer Individual.
 ## Academic Competitions
