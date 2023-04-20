@@ -6,8 +6,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
   
-  - title: "Skills & Certificates"
-    url: "/#-news"
+  - title: "Skills and Certificates"
+    url: "/#-skills-and-certificates"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -16,7 +16,7 @@ main:
     url: "/#-publications"
 
   - title: "Research Grants"
-    url: "/#-invited-talks"
+    url: "/#-research-grant"
 
   - title: "Internships"
     url: "/#-internships"
