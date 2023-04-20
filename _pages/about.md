@@ -32,7 +32,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 ## Scholarships and Personal Honors
 - *2022* The Third Prize Scholarship (Postgraduate).
 - *2021* The Second Prize Scholarship (Postgraduate).
-- *2019 &amp; 2020* National Motivational Scholarship (Top 3.5%).
+- *2019 and 2020* National Motivational Scholarship (Top 3.5%).
 - *2020* The Grand Prize Scholarship (Top 1%).
 - *2019* The Second Prize Scholarship (Top 11%).
 - *2021* School Outstanding Graduate.
