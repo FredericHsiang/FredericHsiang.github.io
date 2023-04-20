@@ -23,13 +23,13 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - *2021.09 - 2024.06 (expected)*, MSc in Business Management, School of Business, Nanjing Audit University.
 - *2017.09 - 2021.06*, BSc in Mathematics and Applied Mathematics, School of Science, East China University of Technology.
 
-# 🔥 Skills and Certificates
+# 🔥 Skills &amp; Certificates
 -  Financial Risk Manager (FRM) Level I; Securities Practice Qualification Certificate; Futures Qualification Certificate; Junior Accounting Certificate; National Computer Certificate II (MS Office).
 
-# 🎖 Honors and Awards
+# 🎖 Honors &amp; Awards
 
 
-## Scholarships and Personal Honors
+## Scholarships &amp; Personal Honors
 - *2022* The Third Prize Scholarship (Postgraduate).
 - *2021* The Second Prize Scholarship (Postgraduate).
 - *2019 &amp; 2020* National Motivational Scholarship (Top 3.5%).
