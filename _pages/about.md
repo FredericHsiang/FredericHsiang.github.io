@@ -63,5 +63,5 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 
 # 💻 Internships
 - *2021.02 - 2021.04*, Product Manager Intern, [Soul](https://www.soulapp.cn/), On-line.
-- *2020.03 - 2020.05*, Assistant Finance Manager, [Citic Securities](http://www.cs.ecitic.com/newsite/yywd/zjs/_yyb1301_/), Jiaxing.
+- *2020.03 - 2020.05*, Assistant Finance Manager, [Citic Securities](http://www.cs.ecitic.com/newsite/index.html), Jiaxing.
 - *2019.07 - 2019.09*, Web Front-End Intern, [Geminno](http://www.suzhou-gem.com/), Soochow.
