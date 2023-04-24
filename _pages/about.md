@@ -27,7 +27,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 -  Financial Risk Manager (FRM) Level I; Securities Practice Qualification Certificate; Futures Qualification Certificate; Junior Accounting Certificate; National Computer Certificate II (MS Office, Python).
 
 # 🎖 Honors and Awards  
- 
+- Below are some personal honors and academic awards. 
 ## Scholarships and Personal Honors
 - *2022* The Third Prize Scholarship (Postgraduate).
 - *2021* The Second Prize Scholarship (Postgraduate).
