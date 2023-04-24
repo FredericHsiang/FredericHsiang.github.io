@@ -29,24 +29,24 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 # 🎖 Honors and Awards  
 - Below are some personal honors and academic awards. 
 ## Scholarships and Personal Honors
-- *2022* The Third Prize Scholarship (Postgraduate).
-- *2021* The Second Prize Scholarship (Postgraduate).
-- *2019 and 2020* National Motivational Scholarship (Top 3.5%).
-- *2020* The Grand Prize Scholarship (Top 1%).
-- *2019* The Second Prize Scholarship (Top 11%).
-- *2021* School Outstanding Graduate.
-- *2019* School Outstanding Student Leaders.
-- *2019* School Star of Virtues.
-- *2019* School Merit Student.
-- *2018* Provincial Advanced Volunteer Team.
-- *2018* School Advanced Volunteer Individual.
+- *2022*, The Third Prize Scholarship (Postgraduate).
+- *2021*, The Second Prize Scholarship (Postgraduate).
+- *2019 and 2020*, National Motivational Scholarship (Top 3.5%).
+- *2020*, The Grand Prize Scholarship (Top 1%, Weighted average score > 90).
+- *2019*, The Second Prize Scholarship (Top 11%).
+- *2021*, School Outstanding Graduate.
+- *2019*, School Outstanding Student Leaders.
+- *2019*, School Star of Virtues.
+- *2019*, School Merit Student.
+- *2018*, Provincial Advanced Volunteer Team.
+- *2018*, School Advanced Volunteer Individual.
 ## Academic Competitions
-- *2019* Meritorious Winner (International First Prize), COMAP's Mathematical Contest in Modeling (MCM).
-- *2019* National Second Prize, "Teddy Cup" Data Mining Race.
-- *2019* Provincial Second Prize, China Undergraduate Mathematical Contest in Modelling.
-- *2019* Provincial Third Prize, Physics Innovation Competition in Jiangxi Province (Undergraduate).
-- *2019* School Second Prize, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition.
-- *2018* School Third Prize, The Chinese Mathematics Competitions.
+- *2019*, Meritorious Winner (International First Prize), COMAP's Mathematical Contest in Modeling (MCM).
+- *2019*, National Second Prize, "Teddy Cup" Data Mining Race.
+- *2019*, Provincial Second Prize, China Undergraduate Mathematical Contest in Modelling.
+- *2019*, Provincial Third Prize, Physics Innovation Competition in Jiangxi Province (Undergraduate).
+- *2019*, School Second Prize, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition.
+- *2018*, School Third Prize, The Chinese Mathematics Competitions.
 
 # 📝 Publications 
 - [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications*, 2023.
