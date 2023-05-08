@@ -50,7 +50,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 
 # 📝 Publications 
 - [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications*, 2023.
-- Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec, Dejian Yu, **Bo Xiang\***, *International Journal of Manpower*, 2023 (accepted).
+- [Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec](https://www.emerald.com/insight/content/doi/10.1108/IJM-08-2022-0353/full/html), Dejian Yu, **Bo Xiang\***, *International Journal of Manpower*, 2023.
 
 # 💬 Research Grants
 - *2022.05 - 2023.05*, Cross-border e-commerce enterprise credit rating research under multi-attribute decision environment, Postgraduate Research and Practice Innovation Program of Jiangsu Province, **No. KYCX22_2187**, **1/1**.
