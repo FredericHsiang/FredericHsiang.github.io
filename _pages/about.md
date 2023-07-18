@@ -51,7 +51,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 # 📝 Publications 
 - [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications*, 2023.
 - [Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec](https://www.emerald.com/insight/content/doi/10.1108/IJM-08-2022-0353/full/html), Dejian Yu, **Bo Xiang\***, *International Journal of Manpower*, 2023.
-- The research landscape of two-sided matching: A bibliometric analysis powered by topic model, Dejian Yu, **Bo Xiang\***, Zeshui Xu, *Under review*.
+- The research landscape of two-sided matching: A bibliometric analysis powered by topic model, Dejian Yu, **Bo Xiang\***, Zeshui Xu, *Informatica*, Under review.
 - An ESTs detection research based on paper entity mapping: Combining scientific text modeling and Neural Prophet, Dejian Yu, **Bo Xiang\***, *Under review*.
 - Tracing the knowledge structure and evolutionary trajectory of CSR in social sciences: Based on text analysis and main path analysis, Dejian Yu, **Bo Xiang\***, *Under review*.
 
