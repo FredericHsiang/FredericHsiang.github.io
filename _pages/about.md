@@ -53,7 +53,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - [Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec](https://www.emerald.com/insight/content/doi/10.1108/IJM-08-2022-0353/full/html), Dejian Yu, **Bo Xiang\***, *International Journal of Manpower* (SSCI, JCR Q1, ABS 2, ABDC A), 2023.
 - The research landscape of two-sided matching: A bibliometric analysis powered by topic model, Dejian Yu, **Bo Xiang\***, Zeshui Xu, *Soft Computing* (SCI, JCR Q2, CCF C), Under review.
 - An ESTs detection research based on paper entity mapping: Combining scientific text modeling and Neural Prophet, Dejian Yu, **Bo Xiang\***, *Information Processing & Management* (SCI, SSCI, JCR Q1, CCF B, ABS 2), Under review.
-- Combining text analytics and network path extraction to trace CSR in the social sciences: Intellectual structures and evolution trajectories, Dejian Yu, **Bo Xiang\***, Zhuoya Pan, *Journal of Business Ethics* (SSCI, JCR Q1, FT50, ABS 3, ABDC A), With editor.
+- Combining text analytics and network path extraction to trace CSR in the social sciences: Intellectual structures and diffusion trajectories, Dejian Yu, **Bo Xiang\***, Zhuoya Pan, *Journal of Business Ethics* (SSCI, JCR Q1, FT50, ABS 3, ABDC A), With editor.
 
 # 💬 Research Grants
 - *2022.05 - 2023.05*, Cross-border e-commerce enterprise credit rating research under multi-attribute decision environment, Postgraduate Research and Practice Innovation Program of Jiangsu Province, **No. KYCX22_2187**, **1/1**.
