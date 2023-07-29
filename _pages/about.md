@@ -49,8 +49,8 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - *2018*, School Third Prize, The Chinese Mathematics Competitions.
 
 # 📝 Publications 
-- [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications* (SCI, JCR Q1, CCF C), 2023.
-- [Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec](https://www.emerald.com/insight/content/doi/10.1108/IJM-08-2022-0353/full/html), Dejian Yu, **Bo Xiang\***, *International Journal of Manpower* (SSCI, JCR Q1, ABS 2, ABDC A), 2023.
+- [Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling](https://www.sciencedirect.com/science/article/pii/S0957417423006164#ak905), Dejian Yu, **Bo Xiang\***, *Expert Systems with Applications* (SCI, JCR Q1, CCF C), 2023, 225, 120114. https://doi.org/10.1016/j.eswa.2023.120114
+- [Discovering knowledge map and evolutionary path of HRM & ER: Using the STM combined with Word2vec](https://www.emerald.com/insight/content/doi/10.1108/IJM-08-2022-0353/full/html), Dejian Yu, **Bo Xiang\***, *International Journal of Manpower* (SSCI, JCR Q1, ABS 2, ABDC A), 2023, 44(5), 967-988. https://doi.org/10.1108/IJM-08-2022-0353
 - The research landscape of two-sided matching: A bibliometric analysis powered by topic model, Dejian Yu, **Bo Xiang\***, Zeshui Xu, *Soft Computing* (SCI, JCR Q2, CCF C), Under review.
 - An ESTs detection research based on paper entity mapping: Combining scientific text modeling and Neural Prophet, Dejian Yu, **Bo Xiang\***, *Information Processing & Management* (SCI, SSCI, JCR Q1, CCF B, ABS 2), Under review.
 - Combining text analytics and network path extraction to trace CSR in the social sciences: Intellectual structures and diffusion trajectories, Dejian Yu, **Bo Xiang\***, Zhuoya Pan, *Journal of Business Ethics* (SSCI, JCR Q1, FT50, ABS 3, ABDC A), With editor.
@@ -65,7 +65,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 - *2017.12 - 2018.12*, Multiple patterns and pathways of new smart city construction, Science and Technology Innovation Fund of ECUT (Undergraduate), **Third Prize**, **4/6**.
 
 # 💻 Internships
-- *2021.04 - 2021.08*, Mathematics Teacher, Nanchang Qinglan Education Consulting Co., LTD, Nanchang.
+- *2021.04 - 2021.08*, Mathematics Teacher, Qinglan Education Consulting Co., LTD, Nanchang.
 - *2021.02 - 2021.04*, Product Manager Intern, [Soul](https://www.soulapp.cn/), On-line.
 - *2020.03 - 2020.05*, Assistant Finance Manager, [Citic Securities](http://www.cs.ecitic.com/newsite/index.html), Jiaxing.
 - *2019.07 - 2019.09*, Web Front-End Intern, [Geminno](http://www.suzhou-gem.com/), Soochow.
