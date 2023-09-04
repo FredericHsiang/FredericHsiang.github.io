@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Frederic Hsiang (项波)"
+title                    : "Li-bo Hsiang"
 description              : "Master degree candidate of Business Management, School of Business, Nanjing Audit University. Focusing on technology innovation, text analysis and scientometrics."
 repository               : "FredericHsiang/FredericHsiang.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Frederic Hsiang (项波)"
+  name             : "Li-bo Hsiang"
   avatar           : "images/touxiang.jpg"
   bio              : "Nanjing Audit University"
   location         : "Nanjing, China"
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "u/7728754519"
+  weibo            : #"u/7728754519"
   xing             :
   youtube          : #"FredericHsiang"
   wikipedia        :
