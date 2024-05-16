@@ -20,6 +20,7 @@ redirect_from:
 I became a searcher，wanting to find out who I was and what made me unique. My view of myself was changing. I wanted a solid base to start from. I started to resist3 pressure to act in ways that I didn’t like any more，and I was delighted by who I really was. I came to feel much more sure that no one can ever take my place. Each of us holds a unique place in the world. You are special，no matter what others say or what you may think. So forget about being replaced. You can’t be.
 
 # 📖 Educations
+- *2024.09 (expected)* - , PhD in Information Resource Management, School of Information Management, Nanjing University.
 - *2021.09 - 2024.06 (expected)*, MSc in Business Management, School of Business, Nanjing Audit University.
 - *2017.09 - 2021.06*, BSc in Mathematics and Applied Mathematics, School of Science, East China University of Technology.
 
