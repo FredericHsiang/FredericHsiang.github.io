@@ -31,7 +31,7 @@ I became a searcher，wanting to find out who I was and what made me unique. My 
 -  [An ESTs detection research based on paper entity mapping: Combining scientific text modeling and Neural Prophet](https://www.sciencedirect.com/science/article/pii/S1751157724000646), Dejian Yu, **Bo Xiang\***, *Journal of Informetrics* (SCI/SSCI, JCR Q1, FMS B), 2024, 18(4), 101551. https://doi.org/10.1016/j.joi.2024.101551
 -  Customized integrated decision model for CBEC enterprise credit evaluation: The fusion of multi-source features and machine learning, Dejian Yu, **Bo Xiang\***, *Electronic Markets* (SSCI, JCR Q1), Major Revision returned.
 -  The research landscape of two-sided matching: a bibliometric analysis powered by topic model, Xiaorong He, **Bo Xiang\***, Dejian Yu, Zeshui Xu, *Journal of the Operational Research Society* (SCI/SSCI, JCR Q2, FMS B), Under Review.
--  Detecting technological opportunities appropriate for enterprise R&D: The synthesis analysis of industrial technical windows of opportunity and enterprise competition relations, **Bo Xiang**, Zhuoya Pan, Dejian Yu\*, *Technological Forecasting and Social Change* (SSCI, JCR Q1, FMS B), Under Review.
+-  Detecting technological opportunities appropriate for enterprise R&D: The synthesis analysis of industrial technical windows of opportunity and enterprise competition relations, **Bo Xiang**, Zhuoya Pan, Dejian Yu\*, *Technovation* (SCI/SSCI, JCR Q1, FMS B), Under Review.
 
 # 💬 Research Grants
 - *2022.05 - 2023.05*, Cross-border e-commerce enterprise credit rating research under multi-attribute decision environment, Postgraduate Research and Practice Innovation Program of Jiangsu Province, **No. KYCX22_2187**, **1/1**.
