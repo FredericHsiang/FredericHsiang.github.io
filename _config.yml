@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Li-bo Hsiang"
   avatar           : "images/touxiang.jpg"
-  bio              : "Nanjing University"
+  bio              : # "Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
