@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Publications"
     url: "/#-publications"
 
@@ -13,5 +10,5 @@ main:
     url: "/#-research-grants"
 
   - title: "CV"
-    url: https://github.com/FredericHsiang/FredericHsiang.github.io/blob/master/images/1_JASIST_ANetworkCouplingApproachToDetectingHierarchical.PDF
+    url: https://github.com/Li-boHsiang/Li-boHsiang.github.io/CV.PDF
     
