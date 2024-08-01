@@ -28,8 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "stuxiangbo@163.com"
-  researchgate     : "https://www.researchgate.net/profile/Xiang-Bo-3"
+  email            : # "stuxiangbo@163.com"
+  researchgate     : # "https://www.researchgate.net/profile/Xiang-Bo-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3020-2223"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0002-3020-2223"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
