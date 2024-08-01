@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Li-bo Hsiang"
 description              : "PhD student of Information Resource Management, School of Information Management, Nanjing University. Focusing on technology innovation, science and technology security, and scientometrics."
-repository               : "FredericHsiang/FredericHsiang.github.io"
+repository               : "Li-boHsiang/Li-boHsiang.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FredericHsiang"
+  github           : "Li-boHsiang"
   google_plus      :
   keybase          :
   instagram        :
